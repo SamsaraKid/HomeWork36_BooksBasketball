@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bookshelf shelfname="Художественная литература">
+  <book>
+    <title>ванп</title>
+    <year>1992</year>
+  </book>
+  <book>
+    <title>абнп</title>
+    <year>1991</year>
+  </book>
+  <book>
+    <title>аанп</title>
+    <year>1998</year>
+  </book>
+</bookshelf>
